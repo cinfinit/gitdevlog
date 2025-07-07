@@ -2,7 +2,7 @@
   "name": "gitdevlog",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "📃 Post-commit CLI logger to keep searchable memory of changes",
+  "description": "📃 Post-commit CLI logger to keep searchable memory of changes , Logging the Why Behind the What",
   "bin": { 
     "gitdevlog": "./bin/index.js"
   },

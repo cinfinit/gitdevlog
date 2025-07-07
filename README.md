@@ -1,4 +1,4 @@
-# 📃 gitdevlog — Logging the Why Behind the What
+# 📃 gitdevlog — [![NPM version](https://img.shields.io/npm/v/gitdevlog.svg?style=flat)](https://www.npmjs.com/package/gitdevlog) [![NPM downloads](https://img.shields.io/npm/dm/gitdevlog.svg?style=flat)](https://npmjs.org/package/gitdevlog) 
 
 > A tiny CLI + Git hook that asks: _“Why did you really make that commit?”_  
 > And then quietly builds a timeline of your thoughts for future you... and your team.
