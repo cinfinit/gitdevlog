@@ -1,9 +1,9 @@
 {
   "name": "gitdevlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "📃 Post-commit CLI logger to keep searchable memory of changes , Logging the Why Behind the What",
-  "bin": { 
+  "bin": {
     "gitdevlog": "./bin/index.js"
   },
   "files": [
@@ -14,7 +14,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["git", "post-commit", "log", "cli", "developer-tools", "devlog", "devlog-cli","memory","devlog-memory"],  
+  "keywords": [
+    "git",
+    "post-commit",
+    "log",
+    "cli",
+    "developer-tools",
+    "devlog",
+    "devlog-cli",
+    "memory",
+    "devlog-memory"
+  ],
   "author": "cinfinit",
   "license": "ISC",
   "repository": {
