@@ -46,6 +46,8 @@ Turns out the state param was missing from the callback URL. Rage."_
 
 Let’s capture that. While it’s fresh.
 
+"Git tells you what changed. This tells you why."
+
 ---
 
 ## 💡 MORE Why though?
